@@ -1,0 +1,87 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Enemy
+  - Flowchart
+  - TextBox
+  - PlayerSword
+  - EnemySword
+  - EnemyBody
+  - PanelMainMenu
+  - Horse
+  - PlaceItem
+  - SingoBarong
+  - ImunAnim
+  - BarrelDrop
+  - BarrelClue
+  - FadeTransition
+  - Canvas
+  - Bullet
+  - Audio
+  - Heart
+  - Stage9
+  - BarrelStage9
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - Pickable
+  - Water
+  - UI
+  - Player
+  - Enemy
+  - Cut Scene
+  - Smoke
+  - Singo Barong
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Map
+    uniqueID: 1420105801
+    locked: 0
+  - name: Effect
+    uniqueID: 1007105215
+    locked: 0
+  - name: Interactable
+    uniqueID: 2837932205
+    locked: 0
+  - name: Player
+    uniqueID: 2623156267
+    locked: 0
+  - name: Enemy
+    uniqueID: 3770468187
+    locked: 0
+  - name: Horse
+    uniqueID: 304698763
+    locked: 0
+  - name: Smoke
+    uniqueID: 2330899621
+    locked: 0
+  - name: UI
+    uniqueID: 1273924423
+    locked: 0
